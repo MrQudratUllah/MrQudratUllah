@@ -8,16 +8,8 @@
 - Stealth Mode: [ACTIVE]  
 
 👾 Booting **QudratUllah.exe**...  
----> Mission: "Redefining what's possible."  
-
-<div align="right">
+---> Mission: "Redefining what's possible."
 
 🧠 **Thought Process:**  
-If (problem) {  
-    solve(problem);  
-} else {  
-    innovate();  
-}  
-
-</div>
+If (problem) { solve(problem); } else { innovate(); }
 ```
